@@ -1,0 +1,65 @@
+# ADR Severity & Case Classification
+
+## Introduction
+Adverse Drug Reaction (ADR) severity and case classification are important components of pharmacovigilance. They help healthcare professionals evaluate the intensity of a reaction and determine whether it meets the criteria for a serious adverse event.
+
+## Objective
+To assess ADR severity, distinguish between serious and non-serious cases, and document adverse reactions systematically for drug safety monitoring.
+
+## 1. ADR Severity Classification
+Severity refers to the intensity of an adverse reaction.
+
+- Mild: Symptoms are minor and generally do not interfere with daily activities.
+- Moderate: Symptoms cause discomfort or interfere with normal activities and may require medical treatment.
+- Severe: Symptoms are intense or significantly interfere with daily activities and may require substantial medical intervention.
+
+## 2. Seriousness Classification
+Seriousness is based on the outcome or regulatory criteria, not simply the intensity of symptoms.
+
+An adverse reaction is considered serious if it results in any of the following:
+- Death
+- Life-threatening condition
+- Inpatient hospitalization or prolongation of existing hospitalization
+- Persistent or significant disability or incapacity
+- Congenital anomaly or birth defect
+- Another medically important event that may require intervention to prevent one of these outcomes
+
+## 3. Difference Between Severity and Seriousness
+
+| Severity | Seriousness |
+|---|---|
+| Describes the intensity of the reaction | Describes the regulatory significance of the outcome |
+| Commonly graded as mild, moderate, or severe | Classified as serious or non-serious |
+| Based on symptom intensity and clinical impact | Based on defined seriousness criteria |
+| A severe reaction is not automatically serious | A serious reaction may not have the most intense symptoms |
+
+## 4. Case Study (Fictional)
+A 32-year-old patient developed a skin rash after taking amoxicillin. The rash caused mild discomfort. The patient did not require hospitalization, and no life-threatening condition or persistent disability was reported.
+
+### Case Assessment
+- Suspected medicine: Amoxicillin
+- Adverse reaction: Skin rash
+- Severity: Mild, based on the fictional scenario
+- Seriousness: Non-serious, based on the information provided
+- Outcome: Not specified
+- Causality: Not established by this classification alone
+
+## 5. Case Classification Workflow
+1. Identify the suspected medicine and adverse reaction.
+2. Record the onset, duration, and clinical features.
+3. Assess the intensity of the reaction.
+4. Check whether any seriousness criterion is met.
+5. Record the outcome and relevant clinical information.
+6. Document the assessment and any missing information.
+
+## 6. Importance in Pharmacovigilance
+- Supports consistent ADR documentation.
+- Helps identify cases requiring urgent medical attention.
+- Supports regulatory reporting and safety evaluation.
+- Improves communication between healthcare professionals.
+- Contributes to ongoing monitoring of medicine safety.
+
+## Conclusion
+ADR severity and case classification help organize safety information and support appropriate clinical and regulatory evaluation. Severity and seriousness must be assessed separately using the available evidence and applicable guidelines.
+
+
